@@ -59,8 +59,8 @@ Specific to a particular Hikvision NVR model
 **Description:**  
 Developed a script able to automate the process of executing commands in order to push changes to a repository
 
-**Outcome:**  
+**Outcome:**    
 Commit pushed to GitHub in a quick way
 
-**Applicable to:**
+**Applicable to:**  
 Applicable to each push process you use in a daily basis
