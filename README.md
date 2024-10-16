@@ -64,3 +64,14 @@ Commit pushed to GitHub in a quick way
 
 **Applicable to:**  
 Applicable to each push process you use in a daily basis
+
+### 6. [Automation for transforming Jupyter Notebooks into scripts](https://github.com/mvarrone/convert-notebook-to-script)
+
+**Description:**  
+Developed a script able to convert a Jupyter Notebook into a script file
+
+**Outcome:**    
+Outcome is a new file named the same way as the jupyter notebook. This new file is a python 3 script (.py)
+
+**Applicable to:**  
+Any Jupyter Notebook (.ipynb) file
