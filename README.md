@@ -53,3 +53,14 @@ Specific to a particular Hikvision NVR model
 > [!NOTE] 
 > 
 > When testing on other models, some requests may not work due to differences in API implementation. Some NVRs might offer more features and APIs, while others may support fewer. If using a different model, adjustments may be required.
+
+### 5. [Automation for pushing changes using git](https://github.com/mvarrone/git-utils)
+
+**Description:**  
+Developed a script able to automate the process of executing commands in order to push changes to a repository
+
+**Outcome:**  
+Commit pushed to GitHub in a quick way
+
+**Applicable to:**
+Applicable to each push process you use in a daily basis
