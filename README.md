@@ -50,5 +50,6 @@ Developed an API in Postman consisting of a collection of requests and two envir
 **Supported Device:**  
 Specific to a particular Hikvision NVR model
 
-**Note:**  
-When testing on other models, some requests may not work due to differences in API implementation. Some NVRs might offer more features and APIs, while others may support fewer. If using a different model, adjustments may be required.
+> [!NOTE] 
+> 
+> When testing on other models, some requests may not work due to differences in API implementation. Some NVRs might offer more features and APIs, while others may support fewer. If using a different model, adjustments may be required.
